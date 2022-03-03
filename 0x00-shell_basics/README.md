@@ -1,1 +1,1 @@
-Create 3 new directories
+List files and dir based on specified criteria
