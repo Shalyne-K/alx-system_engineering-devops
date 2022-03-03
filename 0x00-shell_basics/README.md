@@ -1,1 +1,1 @@
-Create dir in tmp
+Move file betty to new dir
