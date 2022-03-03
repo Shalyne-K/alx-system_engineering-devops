@@ -1,1 +1,1 @@
-Del betty
+Del new dir
