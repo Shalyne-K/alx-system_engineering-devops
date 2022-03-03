@@ -1,1 +1,1 @@
-Make all subdirectories executable to a all
+Create dir with 751 permissions
