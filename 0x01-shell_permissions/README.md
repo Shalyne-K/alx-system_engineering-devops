@@ -1,1 +1,1 @@
-Set mode of hello file as that of olleh
+Make all subdirectories executable to a all
