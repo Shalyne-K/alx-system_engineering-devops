@@ -1,1 +1,1 @@
-Display hidden files in long format
+ls -la with user and group IDs displayed numerically
