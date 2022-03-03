@@ -1,1 +1,1 @@
-Change mode of the hello file
+Set mode of hello file as that of olleh
