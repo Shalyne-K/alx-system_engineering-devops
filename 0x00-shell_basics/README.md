@@ -1,1 +1,1 @@
-Copy HTML files to parent directory
+Move files starting with uppercase
