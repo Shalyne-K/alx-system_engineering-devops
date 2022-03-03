@@ -1,1 +1,1 @@
-Create a symbolic link
+Copy HTML files to parent directory
