@@ -1,1 +1,1 @@
-cd to previous dir
+Lists hidden files in long format up to /boot
