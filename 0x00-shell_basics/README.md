@@ -1,1 +1,1 @@
-Lists hidden files in long format up to /boot
+Print type of file
