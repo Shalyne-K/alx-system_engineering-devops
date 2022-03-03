@@ -1,1 +1,1 @@
-Del new dir
+cd to previous dir
