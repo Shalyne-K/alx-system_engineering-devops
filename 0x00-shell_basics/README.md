@@ -1,1 +1,1 @@
-Display current dir in -l
+Display hidden files in long format
