@@ -1,1 +1,1 @@
-Change working directory to home directory
+Display current dir in -l
