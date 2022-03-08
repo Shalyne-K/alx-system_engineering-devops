@@ -1,1 +1,1 @@
-Display lines containg root from /passwd
+Count lines that contain bin
