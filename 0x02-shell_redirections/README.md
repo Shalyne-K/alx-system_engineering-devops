@@ -1,1 +1,1 @@
-List all files with ".gif" extension
+Decode acrostics
