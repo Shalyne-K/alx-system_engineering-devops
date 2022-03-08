@@ -1,1 +1,1 @@
-Display two files concurrently
+Display last 10 lines of a file
