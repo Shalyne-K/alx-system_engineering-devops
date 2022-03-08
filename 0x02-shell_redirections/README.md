@@ -1,1 +1,1 @@
-Display /etc/passwd file
+Display two files concurrently
