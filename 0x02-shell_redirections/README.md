@@ -1,1 +1,1 @@
-Overwrite a file
+Duplicate the last line of a file
