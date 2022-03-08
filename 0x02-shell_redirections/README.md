@@ -1,1 +1,1 @@
-Display first 10 lines of a file
+Display the third line of a file
