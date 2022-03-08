@@ -1,1 +1,1 @@
-Take list of words as input and print unique words
+Display lines containg root from /passwd
