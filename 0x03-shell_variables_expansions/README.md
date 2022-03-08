@@ -1,1 +1,1 @@
-Print hello current user
+Add /action to the PATH
