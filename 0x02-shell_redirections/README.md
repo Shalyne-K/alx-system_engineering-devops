@@ -1,1 +1,1 @@
-Delete files ending with .js
+Count dir and sub-directories
