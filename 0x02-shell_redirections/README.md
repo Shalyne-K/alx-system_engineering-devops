@@ -1,1 +1,1 @@
-Display 10 newest files
+Take list of words as input and print unique words
