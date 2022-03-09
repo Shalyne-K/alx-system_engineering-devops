@@ -1,1 +1,1 @@
-Print all combinations of letters except oo
+Print number with two decimal places
