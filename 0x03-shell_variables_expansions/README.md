@@ -1,1 +1,1 @@
-Convert number form base 2 to 10
+Print all combinations of letters except oo
