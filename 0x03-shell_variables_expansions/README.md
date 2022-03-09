@@ -1,1 +1,1 @@
-Print every other line from input, starting with the first line
+Add two numbers stored in env variables and print the results
