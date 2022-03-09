@@ -1,1 +1,1 @@
-Print results of POWER/DIVIDE followed by \n
+Display the result of BREATH to power LOVE
