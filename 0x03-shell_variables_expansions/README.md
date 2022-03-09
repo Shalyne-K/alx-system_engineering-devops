@@ -1,1 +1,1 @@
-Print results of 128 added to value in TRUEKNOWLEDGE
+Print results of POWER/DIVIDE followed by \n
